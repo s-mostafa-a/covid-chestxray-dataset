@@ -2,3 +2,6 @@
 volumes
 scripts
 scripts/.ipynb_checkpoints/*
+/venv/
+/.idea/
+*/__pycache__/
