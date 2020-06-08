@@ -12,3 +12,5 @@ This scripts selects all covid-19 data and puts them somewhere else.
 This is just for shaping the metadata.csv file.
 #### [radiopedia.ipynb](./scripts/radiopedia.ipynb)
 This is just for adding some new data to the metadata.csv file from radiopedia.
+#### [test_dataloader.py](./scripts/test_dataloader.py)
+This file tests an interesting data loader which loads data from csv but also have got the images.
