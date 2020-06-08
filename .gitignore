@@ -1,7 +1,8 @@
 .DS_Store
 volumes
-scripts
+scripts/chromedriver
 scripts/.ipynb_checkpoints/*
 /venv/
 /.idea/
 */__pycache__/
+/output/
